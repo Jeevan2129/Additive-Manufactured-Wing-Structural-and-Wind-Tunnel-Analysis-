@@ -32,8 +32,10 @@ This project focuses on the design, fabrication, structural analysis, and aerody
 - Evaluated:
   - Total deformation
   - Equivalent stress
-  - Structural integrity
+  - Structural integrity[WING STRUCTURAL ANALYSIS - 3D PRINTED WING.pdf](https://github.com/user-attachments/files/28418190/WING.STRUCTURAL.ANALYSIS.-.3D.PRINTED.WING.pdf)
 
+<img width="1117" height="653" alt="CAD MODEL OF WING" src="https://github.com/user-attachments/assets/836671fa-d148-4e49-bede-6a9030d214d4" />
+<img width="702" height="335" alt="3D PRINTED - WING  (1)" src="https://github.com/user-attachments/assets/c91b2009-2451-43d0-9e4a-d3f26408d504" />
 ### 4. Wind Tunnel Testing
 - Mounted the wing in a wind tunnel setup.
 - Tested aerodynamic behavior under different flow conditions.
